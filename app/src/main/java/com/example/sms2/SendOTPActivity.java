@@ -18,6 +18,7 @@ import com.google.firebase.auth.PhoneAuthProvider;
 import java.util.concurrent.TimeUnit;
 
 public class SendOTPActivity extends AppCompatActivity {
+    {}
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
