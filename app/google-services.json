@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "429818211785",
+    "project_id": "otp-verification-a2e72",
+    "storage_bucket": "otp-verification-a2e72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429818211785:android:c3126a98238b44f6dc0c18",
+        "android_client_info": {
+          "package_name": "com.example.sms2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429818211785-3dlhughlt24jkib6015f48dftm76n7k0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRLb5kLR477DK7npD9LrVIk2nNB7PqbUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429818211785-3dlhughlt24jkib6015f48dftm76n7k0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
